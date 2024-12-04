@@ -6,7 +6,7 @@ import Team from '@/components/team'
 import Evaluation from '@/components/evaluation'
 import Prizes from '@/components/prizes'
 import Partners from '@/components/partners'
-// import Registration from '@/components/registration'
+import Registration from '@/components/registration'
 import FAQ from '@/components/faq'
 import Contact from '@/components/contact'
 import Footer from '@/components/footer'
@@ -18,11 +18,11 @@ export default function Home() {
       <Hero />
       <About />
       <Schedule />
-      <Team />
       <Evaluation />
       <Prizes />
       <Partners />
-      {/* <Registration /> */}
+      <Registration />
+      <Team />
       <FAQ />
       <Contact />
       <Footer />

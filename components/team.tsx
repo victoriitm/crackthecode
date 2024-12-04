@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Team() {
   return (
-    <section id="team" className="py-20 bg-white">
+    <section id="team" className="py-20 bg-gray-100">
       <div className="container mx-auto px-6">
         <h2 className="text-4xl font-bold text-center text-gray-800 mb-8">Organizing Team</h2>
         <div className="grid md:grid-cols-2 gap-8">

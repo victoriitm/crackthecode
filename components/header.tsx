@@ -36,7 +36,7 @@ export default function Header() {
               <li><Link href="#schedule" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Schedule</Link></li>
               <li><Link href="#team" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Team</Link></li>
               <li><Link href="#prizes" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Prizes</Link></li>
-              <li><Link href="#register" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Register</Link></li>
+              <li><Link href="https://forms.gle/fkHVz8jin5jqgpYz6" className="text-gray-700 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Register</Link></li>
             </ul>
           </div>
           <div className="md:hidden">
@@ -63,7 +63,7 @@ export default function Header() {
           <Link href="#schedule" className="text-gray-700 hover:text-blue-600 block px-3 py-2 rounded-md text-base font-medium">Schedule</Link>
           <Link href="#team" className="text-gray-700 hover:text-blue-600 block px-3 py-2 rounded-md text-base font-medium">Team</Link>
           <Link href="#prizes" className="text-gray-700 hover:text-blue-600 block px-3 py-2 rounded-md text-base font-medium">Prizes</Link>
-          <Link href="#register" className="text-gray-700 hover:text-blue-600 block px-3 py-2 rounded-md text-base font-medium">Register</Link>
+          <Link href="https://forms.gle/fkHVz8jin5jqgpYz6" className="text-gray-700 hover:text-blue-600 block px-3 py-2 rounded-md text-base font-medium">Register</Link>
         </div>
       </div>
     </header>
